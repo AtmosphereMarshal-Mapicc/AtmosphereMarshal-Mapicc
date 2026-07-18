@@ -35,7 +35,8 @@ $\color{#840f0c}{\Huge\text{.✦  ⠀SILLIES :)⠀  ✦.}}$
 $\color{#840f0c}{\Huge\text{.✦  ⠀ART AND IMAGE CREDITS⠀  ✦.}}$
   <p align="center">
 $\color{#a63330}{\large\text{@kaitoishiguro , @ahreum. , @77crescentmoon , @cormaness , @l0ztstarz , @deantestines}}$
-$\color{#a63330}{\text{@join AG:C ... it's fun trust!}}$
+    <p align="center">
+$\color{#a63330}{\text{join AG:C ... it's fun trust!}}$
 
 
 
