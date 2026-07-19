@@ -12,6 +12,7 @@ $\color{#840f0c}{\Huge\text{.✦  ⠀ART WALL!⠀  ✦.}}$
 <P ALIGN="CENTER">
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/8a776701-3d96-4561-a7fe-e5c5efe43e73" />
 <img width="225" height="300" alt="image" src="https://github.com/user-attachments/assets/7a354b39-1add-44f9-8884-81c74b03fa75" />
+  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/eb6f4914-9e48-4890-9935-1a8bc00b1138" />
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/214f69d5-3092-4a0e-8ed4-c00537a758b1" />
 <img width="320" height="300" alt="image" src="https://github.com/user-attachments/assets/3c3de7f4-a295-4cd3-90ac-f7f2c5cbce16" />
 <img width="330" height="300" alt="image" src="https://github.com/user-attachments/assets/93df0d31-d5c4-4700-8a69-1f5b41e6bd58" />
