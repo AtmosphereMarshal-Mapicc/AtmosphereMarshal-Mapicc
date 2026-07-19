@@ -14,6 +14,7 @@ $\color{#840f0c}{\Huge\text{.✦  ⠀ART WALL!⠀  ✦.}}$
 <img width="225" height="300" alt="image" src="https://github.com/user-attachments/assets/7a354b39-1add-44f9-8884-81c74b03fa75" />
   <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/eb6f4914-9e48-4890-9935-1a8bc00b1138" />
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/214f69d5-3092-4a0e-8ed4-c00537a758b1" />
+  <img width="315" height="300" alt="image" src="https://github.com/user-attachments/assets/e871da2b-eb16-484a-a1bf-e6fd653c97ed" />
 <img width="320" height="300" alt="image" src="https://github.com/user-attachments/assets/3c3de7f4-a295-4cd3-90ac-f7f2c5cbce16" />
 <img width="330" height="300" alt="image" src="https://github.com/user-attachments/assets/93df0d31-d5c4-4700-8a69-1f5b41e6bd58" />
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/270c62d0-6147-4be2-8a21-d37eb54db27a" />
@@ -39,7 +40,7 @@ $\color{#840f0c}{\Huge\text{.✦  ⠀SILLIES :)⠀  ✦.}}$
 <p align="center">
 $\color{#840f0c}{\Huge\text{.✦  ⠀ART AND IMAGE CREDITS⠀  ✦.}}$
   <p align="center">
-$\color{#a63330}{\large\text{@kaitoishiguro , @ahreum. , @77crescentmoon , @cormaness , @l0ztstarz , @deantestines}}$
+$\color{#a63330}{\large\text{@kaitoishiguro , @ahreum. , @77crescentmoon , @spokudayooo , @cormaness , @l0ztstarz , @deantestines}}$
     <p align="center">
 $\color{#a63330}{\text{join AG:C ... it's fun trust!}}$
 
