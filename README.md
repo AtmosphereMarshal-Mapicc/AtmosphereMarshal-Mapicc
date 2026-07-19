@@ -5,6 +5,10 @@
 $\color{#840f0c}{\Huge\text{.✦  ⠀ART WALL!⠀  ✦.}}$
 </p>
 
+<p align="center">
+<img width="1233" height="610" alt="image" src="https://github.com/user-attachments/assets/8b5a57b4-096f-4e2c-af17-b9e2fdbc1f0c" />
+
+
 <P ALIGN="CENTER">
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/8a776701-3d96-4561-a7fe-e5c5efe43e73" />
 <img width="225" height="300" alt="image" src="https://github.com/user-attachments/assets/7a354b39-1add-44f9-8884-81c74b03fa75" />
