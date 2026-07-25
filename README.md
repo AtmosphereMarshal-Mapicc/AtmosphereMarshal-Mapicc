@@ -1,5 +1,5 @@
-<p align="center">
-  <img width="1357" height="438" alt="image" src="https://github.com/user-attachments/assets/24e5e8ec-2890-4a31-903d-d21110cf81ec" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/24e5e8ec-2890-4a31-903d-d21110cf81ec" width="1000" />
 
 <p align="center">
 $\color{#840f0c}{\Huge\text{.✦  ⠀ART WALL!⠀  ✦.}}$
@@ -22,7 +22,7 @@ $\color{#840f0c}{\Huge\text{.✦  ⠀ART WALL!⠀  ✦.}}$
 ###
 
 <p align="center">
-<img width="1357" height="438" alt="image" src="https://github.com/user-attachments/assets/b6ed8a2d-1687-48dc-b873-e2be16eba1e4" />
+<img src="https://github.com/user-attachments/assets/b6ed8a2d-1687-48dc-b873-e2be16eba1e4" width="1000" />
 $\color{#840f0c}{\Huge\text{.✦  ⠀SILLIES :)⠀  ✦.}}$
 
 <p align="center">
@@ -35,7 +35,7 @@ $\color{#840f0c}{\Huge\text{.✦  ⠀SILLIES :)⠀  ✦.}}$
 ###
 
 <p align="center">
-<img width="1357" height="438" alt="image" src="https://github.com/user-attachments/assets/0295673c-d448-48fb-95f7-20d49bdd7709" />
+<img src="https://github.com/user-attachments/assets/0295673c-d448-48fb-95f7-20d49bdd7709" width="1000" />
 
 <p align="center">
 $\color{#840f0c}{\Huge\text{.✦  ⠀ART AND IMAGE CREDITS⠀  ✦.}}$
